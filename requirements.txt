@@ -3,3 +3,4 @@ dvc[s3]
 pandas
 ipykernel
 boto
+scikit-learn
