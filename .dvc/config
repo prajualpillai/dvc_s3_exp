@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_tracker
+['remote "dvc_tracker"']
+    url = s3://prajual-dvc-demo/tracker
