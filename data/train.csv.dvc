@@ -1,12 +1,12 @@
 md5: 8c2bf15caae8dcdf0840775d4ee6a73f
 frozen: true
 deps:
-- etag: 29e91e3aeaaec22931ac67988ffb317b
-  size: 108097
+- etag: 4523d635dfefe3c2ed96623d5702d5b5
+  size: 103568
   hash: md5
   path: s3://prajual-dvc-demo/original/train.csv
 outs:
-- md5: 29e91e3aeaaec22931ac67988ffb317b
-  size: 108097
+- md5: 4523d635dfefe3c2ed96623d5702d5b5
+  size: 103568
   hash: md5
   path: train.csv
